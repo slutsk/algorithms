@@ -1,0 +1,14 @@
+.main{
+    width: 1500px;
+    margin:auto;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
+}
+
+h2{
+     background-color: rgb(192, 245, 217);
+     padding: 2px;
+     text-align: center;
+}
