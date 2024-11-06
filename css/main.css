@@ -18,9 +18,10 @@
 }
 
 h2{
-    background-color: rgb(225, 255, 225);
+    background-color: rgb(0, 90, 0);
     padding: 10px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    color:white;
 }
 
