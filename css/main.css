@@ -23,5 +23,15 @@ h2{
     text-align: center;
     font-size: 30px;
     color:white;
+    text-transform:uppercase ;
 }
-
+blockquote{
+    width:600px;
+    border-width: 3px;
+    border-color: green;
+    border-style: dashed;
+    padding: 13px;
+    font-size: 20px;
+    float: right;
+     
+}
